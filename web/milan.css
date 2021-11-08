@@ -1,0 +1,14 @@
+body{
+    /* background-color: steelbleu; */
+    background-color: teal;
+    color:black;
+}
+   
+div{
+    background-color: pink;
+    color:black;
+    width: 400px;
+    height: 200px;
+    position: absolute;top: 100px;
+    position: absolute;left: 100px;
+}
